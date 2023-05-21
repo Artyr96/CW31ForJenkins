@@ -2,10 +2,10 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-17T23:06:26 EEST" name="All Test Suite" finished-at="2023-05-17T23:06:27 EEST" duration-ms="39">
+  <suite started-at="2023-05-21T15:03:16 EEST" name="All Test Suite" finished-at="2023-05-21T15:03:16 EEST" duration-ms="39">
     <groups>
     </groups>
-    <test started-at="2023-05-17T23:06:26 EEST" name="C:/Users/Lenovo/AutoTest/NewTest/CW31/CW31ForJenkins" finished-at="2023-05-17T23:06:27 EEST" duration-ms="39">
+    <test started-at="2023-05-21T15:03:16 EEST" name="C:/Users/Lenovo/AutoTest/NewTest/CW31/CW31ForJenkins" finished-at="2023-05-21T15:03:16 EEST" duration-ms="39">
     </test> <!-- C:/Users/Lenovo/AutoTest/NewTest/CW31/CW31ForJenkins -->
   </suite> <!-- All Test Suite -->
 </testng-results>
